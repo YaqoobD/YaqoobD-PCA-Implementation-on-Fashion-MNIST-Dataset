@@ -1,1 +1,1 @@
-# YaqoobD-PCA-Implementation-on-Fashion-MNIST-Dataset
+# PCA-Implementation-on-Fashion-MNIST-Dataset
